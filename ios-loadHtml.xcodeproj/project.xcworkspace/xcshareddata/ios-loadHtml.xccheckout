@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2A45BC02-8D0B-483C-BDA4-E9575EA4C9A5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ios-loadHtml</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B69FBC4B6C58ADF4E2BB9140F094A37C2559328C</key>
+		<string>https://github.com/xingxianqing/loadHtmlCssJsDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios-loadHtml.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B69FBC4B6C58ADF4E2BB9140F094A37C2559328C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xingxianqing/loadHtmlCssJsDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B69FBC4B6C58ADF4E2BB9140F094A37C2559328C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B69FBC4B6C58ADF4E2BB9140F094A37C2559328C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>loadHtmlCssJsDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
